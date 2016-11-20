@@ -1,0 +1,7 @@
+c:\users\техносила\documents\visual studio 2013\Projects\SimpleTest\SimpleTest\bin\Debug\SimpleTest.dll
+c:\users\техносила\documents\visual studio 2013\Projects\SimpleTest\SimpleTest\bin\Debug\SimpleTest.pdb
+c:\users\техносила\documents\visual studio 2013\Projects\SimpleTest\SimpleTest\bin\Debug\WebDriver.dll
+c:\users\техносила\documents\visual studio 2013\Projects\SimpleTest\SimpleTest\bin\Debug\WebDriver.xml
+c:\users\техносила\documents\visual studio 2013\Projects\SimpleTest\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache
+c:\users\техносила\documents\visual studio 2013\Projects\SimpleTest\SimpleTest\obj\Debug\SimpleTest.dll
+c:\users\техносила\documents\visual studio 2013\Projects\SimpleTest\SimpleTest\obj\Debug\SimpleTest.pdb
